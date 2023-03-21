@@ -1,0 +1,2 @@
+# Foodsharing-Extension
+Chrome extension
